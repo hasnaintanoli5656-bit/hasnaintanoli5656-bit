@@ -10,7 +10,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/hasnain-tanoli-92a057414/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Hasnain Tanoli LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasnain-tanoli-92a057414/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="Hasnain Tanoli LinkedIn" height="30" width="30" /></a>
 </p>
 
 ## Languages and Tools:
