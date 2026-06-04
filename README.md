@@ -13,6 +13,14 @@
 <a href="https://www.linkedin.com/in/hasnain-tanoli-92a057414/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="Hasnain Tanoli LinkedIn" height="30" width="30" /></a>
 </p>
 
+
+## 📁 Featured Projects:
+
+### 🍽️ Salt'n Pepper Landing Page Clone
+I developed a landing page clone for the famous **Salt'n Pepper** restaurant to practice HTML structure, CSS layouts, and navigation bar styling.
+- **Tools Used:** HTML5, CSS3 (Flexbox & UI Layouts)
+- **Code Link:** [👉 Click Here to View Code](https://github.com/hasnaintanoli5656-bit/Salt-n-paper)
+
 ## Languages and Tools:
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
