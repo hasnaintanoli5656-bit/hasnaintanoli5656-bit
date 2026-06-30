@@ -1,26 +1,26 @@
-# Hi 👋, I'm Hasnain Tanoli
+# Hi, I'm Hasnain Tanoli
 
 ### I'm an aspiring Front-End Web Developer driven by a passion for crafting clean, responsive, and user-friendly web interfaces.
 
-- 🚀 I’m currently learning **Web Development** at **Saylani Mass I.T Training (S.M.I.T)**.
-- 💻 I'm actively mastering **HTML5, CSS3 (Flexbox & Layouts)**, and advanced **JavaScript**.
-- 📚 Currently studying and practicing programming logic through deep-dive JS challenges.
-- 💬 Ask me about **HTML, CSS, JavaScript, and UI Designing**.
-- 📫 How to reach me: hasnaintanoli5656@gmail.com
+- I’m currently learning **Web Development** at **Saylani Mass I.T Training (S.M.I.T)**.
+- I'm actively mastering **HTML5, CSS3 (Flexbox & Layouts)**, and advanced **JavaScript**.
+- Currently studying and practicing programming logic through deep-dive JS challenges.
+- Ask me about **HTML, CSS, JavaScript, and UI Designing**.
+- How to reach me: hasnaintanoli5656@gmail.com
 
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/hasnain-tanoli-92a057414/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="Hasnain Tanoli LinkedIn" height="30" width="30" /></a>
 </p>
 
-### 🍽️ Salt'n Pepper Landing Page Clone
+###  Salt'n Pepper Landing Page Clone
 
 A fully responsive landing page clone for the famous **Salt'n Pepper** restaurant, built to master semantic HTML structure, advanced CSS layouts, and modern web design principles.
 
 *   **Key Features:** 
-    *   📱 **100% Mobile Responsive** layout optimized for all screen sizes (Media Queries).
-    *   🧱 Structured grid and flexbox alignment for dynamic content display.
-    *   🗺️ Custom-styled franchise details and clean layout structures.
+    *    **100% Mobile Responsive** layout optimized for all screen sizes (Media Queries).
+    *    Structured grid and flexbox alignment for dynamic content display.
+    *    Custom-styled franchise details and clean layout structures.
 *   **Tools Used:** HTML5, CSS3 (Flexbox, CSS Grid, Media Queries)
 *   **Code Link:** 🔗 [Click Here to View Code](https://github.com/hasnaintanoli5656-bit/Salt-n-paper)
 
