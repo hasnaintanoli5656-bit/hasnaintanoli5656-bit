@@ -1,9 +1,4 @@
 
-- How to reach me: hasnaintanoli5656@gmail.com
-
-
-*   **Code Link:** 🔗 [Click Here to View Code](https://github.com/hasnaintanoli5656-bit/Salt-n-paper)
-
 # Hi 👋, I'm Hasnain Tanoli
 
 ### Frontend Developer | Learning Modern Web & App Development at SMIT 🚀
@@ -36,6 +31,10 @@
 - ✅ Quiz App
 - ✅ Todo App
 - ✅ Calculator App
+
+---
+
+How to reach me: hasnaintanoli5656@gmail.com
 
 ---
 
