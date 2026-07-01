@@ -1,17 +1,4 @@
 
-
-
-
-How to reach me: hasnaintanoli5656@gmail.com
-
----
-
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/hasnain-tanoli-92a057414/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="Hasnain Tanoli LinkedIn" height="30" width="30" /></a>
-</p>
-
---
 <h1 align="center">Hi 👋, I'm Hasnain Tanoli</h1>
 <h3 align="center">Frontend Developer | Learning Modern Web & App Development at SMIT 🚀</h3>
 
@@ -69,7 +56,8 @@ How to reach me: hasnaintanoli5656@gmail.com
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="left">
+
 <a href="https://www.linkedin.com/in/hasnaintanoli">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -77,8 +65,14 @@ How to reach me: hasnaintanoli5656@gmail.com
 <a href="https://github.com/hasnaintanoli5656-bit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="mailto:hasnaintanoli5656@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
+📧 **Email:** **hasnaintanoli5656@gmail.com**
 ---
 
 ## 💡 Quote
