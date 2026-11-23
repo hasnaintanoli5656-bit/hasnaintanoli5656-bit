@@ -1,13 +1,15 @@
 
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9FF&height=220&section=header&text=HASNAIN%20TANOLI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20Modern%20Web%20Applications&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9FF&height=230&section=header&text=HASNAIN%20TANOLI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER%20%7C%20FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hasnain+Tanoli+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Redux+%7C+Firebase;Tailwind+CSS+%7C+Bootstrap;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Hasnain+Tanoli+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Building+Modern+Full+Stack+Applications;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Turning+Ideas+Into+Real+World+Projects;Code.+Create.+Innovate.+Repeat." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hasnaintanoli5656-bit&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hasnaintanoli5656-bit&label=PROFILE%20VIEWS&color=00C9FF&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/hasnaintanoli5656-bit?label=Followers&style=for-the-badge&color=203A43&logo=github" />
 
 </div>
 
@@ -15,45 +17,66 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Hasnain Tanoli**, a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications.
+Hey there! I'm **Hasnain Tanoli**, a passionate **MERN Stack Developer** who loves building modern, responsive, and user-friendly web applications.
 
-I'm currently studying **Modern Web & App Development at Saylani Mass IT Training (SMIT)**.
+I'm currently pursuing Web Development at **Saylani Mass IT Training (SMIT)**, where I'm continuously improving my development skills and exploring modern technologies.
 
-I enjoy transforming creative ideas into real-world web applications using HTML, CSS, JavaScript, React, Redux, Firebase, and modern CSS frameworks.
+I enjoy turning ideas into real-world applications, solving problems, and creating clean, maintainable, and scalable code.
 
-- 🔭 Building modern and responsive web applications.
-- 🌱 Improving my React, Redux, and Firebase skills.
-- 💻 Working with HTML, CSS, JavaScript, and modern frontend technologies.
-- 🎯 Focused on writing clean and maintainable code.
-- 🚀 Exploring new technologies and improving my development skills.
-- 🤝 Open to internships and collaboration opportunities.
-- 📍 Based in Karachi, Pakistan.
+- 🚀 Developing modern Full Stack Web Applications.
+- 💻 Working with React.js, Next.js, Node.js, and Express.js.
+- 🗄️ Learning and building with MongoDB and Mongoose.
+- ⚡ Experienced with JavaScript ES6+, TypeScript, and Redux Toolkit.
+- 🎨 Creating responsive UIs with Tailwind CSS and Material UI.
+- 🔥 Working with Firebase, REST APIs, and Cloudinary.
+- 🌱 Always learning and exploring new technologies.
+- 🤝 Open to internship opportunities and collaboration.
+- 📍 Karachi, Pakistan.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Technologies
 
 <div align="center">
 
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&theme=dark" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap&theme=dark" />
 
-<br/><br/>
+### ⚙️ Backend Development
 
-### 🔥 Backend Services & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,npm&theme=dark" alt="Development Tools" />
+### 🧰 Tools & Platforms
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark" />
 
-### 📱 Additional Skills
+### 📦 Additional Technologies
 
-<img src="https://img.shields.io/badge/Responsive%20Web%20Design-00C9FF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-00C9FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Frontend%20Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
-<img src="https://img.shields.io/badge/Modern%20UI%20Development-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+---
+
+## 💻 What I Build
+
+<div align="center">
+
+| Area | Technologies |
+|:---|:---|
+| Frontend | React.js, Next.js, TypeScript |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, Mongoose, Firebase |
+| State Management | Redux Toolkit |
+| Styling | Tailwind CSS, Material UI, Bootstrap |
+| API Development | REST APIs, Postman |
+| Media Management | Cloudinary |
+| Version Control | Git, GitHub |
 
 </div>
 
@@ -63,13 +86,13 @@ I enjoy transforming creative ideas into real-world web applications using HTML,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasnaintanoli5656-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasnaintanoli5656-bit&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaintanoli5656-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaintanoli5656-bit&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=hasnaintanoli5656-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=hasnaintanoli5656-bit&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -79,38 +102,39 @@ I enjoy transforming creative ideas into real-world web applications using HTML,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnaintanoli5656-bit&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnaintanoli5656-bit&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-## 🎯 My Development Goals
+## 🎯 Current Focus & Goals
 
-- Build scalable and responsive React applications.
-- Strengthen my JavaScript fundamentals.
-- Improve state management with Redux.
-- Develop applications using Firebase.
-- Write reusable and maintainable components.
-- Continue learning modern web development technologies.
-- Gain practical experience through real-world projects.
+- 🚀 Building full-stack applications using the MERN stack.
+- 🗄️ Improving MongoDB and Mongoose knowledge.
+- ⚙️ Learning backend architecture with Node.js and Express.js.
+- 🔐 Understanding authentication and authorization.
+- 🔗 Developing and integrating REST APIs.
+- ⚛️ Improving React.js and Next.js development skills.
+- 📈 Writing clean, reusable, and maintainable code.
+- 💡 Building real-world projects and gaining practical experience.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/hasnaintanoli5656-bit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/hasnain-tanoli-92a057414/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:hasnaintanoli5656@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:hasnain.tanoli5656@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -119,9 +143,9 @@ I enjoy transforming creative ideas into real-world web applications using HTML,
 
 <div align="center">
 
-### 💡 Keep Learning. Keep Building. Keep Growing.
+### 💡 Turning Ideas Into Code, One Project At A Time.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Consistency+Is+The+Key+To+Success;Every+Expert+Was+Once+A+Beginner;Code.+Learn.+Build.+Repeat." alt="Motivational Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Dream+Big.+Build+Bigger.;Never+Stop+Learning.;Consistency+Creates+Success.;Code.+Learn.+Build.+Repeat." />
 
 <br/>
 
@@ -135,11 +159,4 @@ I enjoy transforming creative ideas into real-world web applications using HTML,
 
 
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnaintanoli5656-bit&show_icons=true&theme=radical" alt="Hasnain's GitHub Stats" />
-</p>
 
